@@ -1,0 +1,13 @@
+package org.yasmani.io.apprestwithtoken;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AppRestWithTokenApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
